@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+	<title> TACC 2021 </title>
+	
+	<!-- Meta -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Tunisian-Algerian Joint Conference on Applied Computing. TACC 2021 is organized by ReDCAD Lab. (Tunisia) and LIRE lab (Algeria).">
+	<meta name="author" content="ReDCAD">    
+	<!--link rel="shortcut icon" href="favicon.ico"--> 
+	
+	<!-- Google Font -->
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:600,700,800|Roboto:300,400,700&display=swap" rel="stylesheet">
+	
+	<!-- FontAwesome JS-->
+	<script defer src="assets/fontawesome/js/all.min.js"></script>
+
+	<!-- Theme CSS -->  
+	<link id="theme-style" rel="stylesheet" href="assets/css/theme.css">
+
+
+</head> 
+
+<body>    
+	<header id="header" class="header fixed-top">	    
+		<div class="branding">
+			<div class="container-fluid">
+				<nav class="main-nav navbar navbar-expand-lg">
+					<!--div class="site-logo"><a class="scrollto" href="#hero-block"><img class="logo-icon" src="assets/images/logo-white.svg" alt="logo"></a></div-->    
+					
+					<!--div class="navbar-btn order-lg-2"><a class="btn btn-secondary" href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/devconf-free-bootstrap-4-conference-template-for-tech-conferences-and-events/" target="_blank">Tickets</a></div-->
+					
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+					
+					<div id="navigation" class="navbar-collapse collapse  justify-content-lg-end mr-lg-3">
+						<ul class="nav navbar-nav">
+							
+							<li class="nav-item"><a class="nav-link scrollto" href="#about-section">About</a></li>
+							
+							<li class="nav-item"><a class="nav-link scrollto" href="#submission-section">Submission</a></li>
+							<li class="nav-item"><a class="nav-link scrollto" href="#date-section"> Dates</a></li>
+							<li class="nav-item"><a class="nav-link scrollto" href="#Committee-section">Committee</a></li>
+							
+							<li class="nav-item"><a class="nav-link scrollto" href="#speakers-section">Speakers</a></li>
+							<li class="nav-item"><a class="nav-link scrollto" href="#schedule-section">Schedule</a></li>
+							
+							<li class="nav-item"><a class="nav-link scrollto" href="#venue-section">Venue</a></li>
+							<li class="nav-item"><a class="nav-link scrollto" href="#sponsors-section">Sponsors</a></li>
+						</ul><!--//nav-->
+					</div><!--//navabr-collapse-->
+
+				</nav><!--//main-nav-->
+				
+			</div><!--//container-->
+		</div><!--//branding-->
+	</header><!--//header-->
+	
+	<div id="hero-block" class="hero-block">
+		<div id="hero-carousel" class="hero-carousel carousel slide carousel-fade" data-ride="carousel">
+			<div class="carousel-inner">
+				<div class="carousel-item-1 carousel-item active">
+				</div>
+				<div class="carousel-item-2 carousel-item">
+				</div>
+				<div class="carousel-item-3 carousel-item">
+				</div>
+			</div>
+		</div>
+		<div class="hero-block-mask"></div>
+		<div class="container">
+			<div class="hero-text-block">
+				<h1 class="hero-heading mb-2">TACC 2021</h1>
+				<div class="hero-meta mb-3">
+					<i class="far fa-calendar-alt mr-2"></i>18 - 20 Dec 
+					<i class="fas fa-map-marker-alt mx-2"></i>Tabarka, Tunisia
+				</div>
+				
+				<div class="hero-intro mb-4">Tunisian-Algerian Joint Conference on Applied Computing.</div>
+				
+				<!--div class="hero-cta"><a class="btn btn-primary btn-lg" href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/devconf-free-bootstrap-4-conference-template-for-tech-conferences-and-events/" target="_blank">Get Tickets</a></div-->
+				
+			</div><!--//hero-text-block-->
+		</div><!--//container-->
+
+	</div><!--//hero-block-->
+	
+	<div class="stats-block theme-bg-primary text-white py-4 text-center">
+		<div class="container">
+			<div class="row">
+				<div class="col-6 col-md-3">
+					<div class="item">
+						<div class="number">100+</div>
+						<div class="unit">Attendees</div>
+					</div><!--//item-->
+				</div><!--//col-->
+				<div class="col-6 col-md-3">
+					<div class="item">
+						<div class="number">2</div>
+						<div class="unit">Days</div>
+					</div><!--//item-->
+				</div><!--//col-->
+				<div class="col-6 col-md-3">
+					<div class="item">
+						<div class="number">1</div>
+						<div class="unit">PhD Symposium</div>
+					</div><!--//item-->
+				</div><!--//col-->
+				<div class="col-6 col-md-3">
+					<div class="item">
+						<div class="number">1</div>
+						<div class="unit">Workshop</div>
+					</div><!--//item-->
+				</div><!--//col-->
+			</div>
+		</div><!--//container-->
+	</div><!--//stats-block-->
+
+	<section id="about-section" class="about-section section theme-bg-light">
+		<div class="container">
+			<div align="center">
+			<a target="_blank" href="https://www.journals.elsevier.com/journal-of-king-saud-university-computer-and-information-sciences"> <img src="assets/images/si.jpg" width="150"  />  </a>
+			<br/> 			
+			Selected papers will be invited to submit extended versions for publication in the Journal of King Saud University - Computer and Information Sciences. <br/> 
+			SJR Quartile (2020): <b>Q1</b> 			
+			</div>
+			<br/> <br/>
+			<h3 class="section-heading text-center mb-3">About TACC 2021</h3>
+			<div class="section-intro single-col-max mx-auto mb-4" align="justify">The Tunisian Algerian Conference on Applied Computing (TACC 2021) is an ideal platform for keeping up with advances and changes to a consistently evolving field. Leading researchers and industry experts from Tunisia and Algeria will be presenting the latest studies through papers and oral presentations. This conference edition is dedicated to the study of applied research of real-world problems. It aims to address, through two tracks, both theoretical and applied computer science issues.  In addition, a one-day workshop will be held in conjunction with the conference which will focus on the system of systems architecture and applications. Exceptionally, depending on the evolution of coronavirus pandemic the conference would have a hybrid format.<br/> The TACC conference includes 2 main tracks:</div>
+			<div class="benefits-list text-center mb-3">
+			
+			<h4>Track 1: Recent Research in fundamental & Applied Computing</h4>
+			<div class="section-intro single-col-max mx-auto mb-4" align="justify">
+			This general track is dedicated to computer scientists, engineers, and practitioners to present their findings and research results in various areas of computer theories & applications. Its mission is to further the interests of researchers, educators, students, and industries, engaged in the design and development of new computing methods, languages and tools, computing applications, etc. This event provides an avenue to discuss and exchange new ideas in a wide spectrum of application areas. We all recognize the importance of keeping up with the latest developments in our current areas of expedites.
+			<br/>
+			This general conference track invites papers from the following fields, but is not limited to :
+			</div>	
+				<ul class="list-unstyled text-left d-inline-block">
+					<li><i class="fas fa-check-circle mr-2"></i>Artificial Intelligence and Agents </li>
+					<li><i class="fas fa-check-circle mr-2"></i>Distributed Systems </li>
+					<li><i class="fas fa-check-circle mr-2"></i>Information Systems </li>
+					<li><i class="fas fa-check-circle mr-2"></i>Software Engineering </li>
+					<li><i class="fas fa-check-circle mr-2"></i>Software Architecture </li>
+					<li><i class="fas fa-check-circle mr-2"></i>System and Software Security </li>
+					<li><i class="fas fa-check-circle mr-2"></i>Algorithms, automata, and complexity </li>
+					<li><i class="fas fa-check-circle mr-2"></i>Logic, semantics, and theory of programming </li> 
+					<li><i class="fas fa-check-circle mr-2"></i>Static analysis, verification, and testing </li>
+				</ul>
+				
+			<!--h4>Track2: Doctoral Symposium</h4-->
+			<div class="section-intro single-col-max mx-auto mb-4" align="justify">
+			<h4>Track2: Doctoral Symposium</h4>
+			The Doctoral Symposium Track is an international forum for Ph.D. students studying all areas related to the fields of the TACC 2021 conference (see track 1 topics). It will be a good opportunity for Ph.D. students to share and discuss their research in a constructive and critical atmosphere and also to interact with other Ph.D. students and stimulate the exchange of ideas, suggestions, and experiences among participants. <br/>
+			We seek Ph.D. students who have either determined the direction of their thesis research (probably with some preliminary results already published), but who still have substantial work to complete or Ph.D. student participants who are in the early stages of their dissertations. It is not required to have a paper accepted for the main conference to participate in the Doctoral Symposium Track.
+			</div>
+			</div><!--//benefits-list-->
+			
+			
+			<!--div class="event-countdown text-center mb-3">		   
+				<h4 class="countdown-intro mb-2 text-center mb-3">Event Starts In:</h4>
+				<div id="countdown-box" class="countdown-box"></div>
+			</div--><!--//event-countdown-->
+			
+			<!--div class="about-cta text-center mb-5"><a class="btn btn-secondary btn-lg  mb-5" href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/devconf-free-bootstrap-4-conference-template-for-tech-conferences-and-events/" target="_blank">Get Your Ticket Today</a></div-->
+		</div><!--//container-->
+	</section>
+	
+	<section id="submission-section" class="submission-section section theme-bg-light">
+		<div class="media-block theme-bg-primary py-5">
+			<div class="container">
+				<h4 class="text-white text-center mb-3">Guidelines Submissions</h4>
+				<div class="section-intro text-center single-col-max mx-auto text-white mb-5">
+				<div align="justify">
+				All submissions must be conform to the TACC 2021 formatting and submission instructions (for both LaTeX and Word users) that correspond to the one column style for CEUR-WS available at   <br/> 
+				</div>
+				<br/>
+				<a class="btn btn-ghost" href="http://ceur-ws.org/Vol-XXX/CEURART.zip">Submission template</a>
+				<br/> <br/>
+				<div align="justify">
+				Depending on the chosen track, we expect:
+				<ul>
+				<li> <b>Recent Research in Applied Computing:</b>  Submitted papers must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings.  This track is open to academics and industry papers.  Papers should not exceed 12-pages.</li>
+				<li> <b>Doctoral Symposium:<b> Submissions of 6-pages presenting your Ph.D. research plan and progress, including the title of the paper and the author’s name, problem statement, motivations, and current progress. </li>
+				</ul>
+				The proceedings shall be submitted to CEUR-WS.org for online publication (indexed by Scopus).
+
+				Papers must be written in English and must be submitted electronically in PDF format. All paper submissions will be handled through the Easy Chair conference management system: 
+					<!--a href="https://easychair.org/conferences/?conf=tacc2021">
+					https://easychair.org/conferences/?conf=tacc2021
+					</a-->
+					<br/> <br/>
+				
+				</div>
+					<a class="btn btn-ghost" href="https://easychair.org/conferences/?conf=tacc2021" target="_blank">EasyChair Submission System</a>
+				</div>
+			</div><!--//container-->
+		</div><!--//media-block-->
+	</section><!--//about-section-->
+	
+	
+	<section id="date-section" class="date-section section theme-bg-light">
+		<div class="container">
+			<div class="offers text-center bg-white p-4 p-lg-5">
+				<h4 class="mb-3">Important Dates</h4>
+				<ul class="offers-list list-unstyled d-inline-block mx-auto text-left">
+					
+					<li><span class="icon-holder mr-2"><i class="fas fa-book"></i></span>
+					<i>Paper submission deadline: </i> <strike> 20 August 2021</strike> &nbsp; 25 September 2021 (Extended) </li>
+					<li><span class="icon-holder mr-2"><i class="fas fa-book"></i></span>
+					<i>Notification of acceptance: </i> 01 November 2021</li>
+					<li><span class="icon-holder mr-2"><i class="fas fa-book"></i></span>
+					<i>Camera-ready paper due: </i> 01 December 2021</li>
+					<li><span class="icon-holder mr-2"><i class="fas fa-book"></i></span>
+					<i>Registration deadline: </i> 01 December 2021</li>
+					<li><span class="icon-holder mr-2"><i class="fas fa-book"></i></span>
+					<i>Conference date: </i> 18-20 December 2021</li>
+					<!--li><span class="icon-holder mr-2"><i class="fas fa-gift"></i></span>FREE <a href="https://themes.3rdwavemedia.com/freebies/" target="_blank">Bootstrap templates and digital resources</a> for developers worth over $100</li-->
+				</ul><!--offers-list-->
+			</div><!--//offers-->
+		</div>	
+	</section>
+	
+	
+	
+	<section id="Committee-section" class="Committee-section section">
+		<div class="container">
+			<h3 class="section-heading text-center mb-3">Committee</h3>
+			
+			<h4> Program chairs </h4>
+				<ul>
+					<li><a href="https://www.univ-constantine2.dz/blog/profil-enseignant/belguidoum-meriem" target="_blank">Meriem Belguidoum</a>, University of Constantine2, Algeria</li>
+					<li><a href="https://www.univ-constantine2.dz/blog/profil-enseignant/belala-faiza" target="_blank">Faiza Belala</a>, University of Constantine2, Algeria</li>
+					<li><a href="https://www.redcad.org/members/ahadjkacem" target="_blank">Ahmed Hadj Kacem</a>, University of Sfax, Tunisia</li>
+					<li><a href="https://www.redcad.org/members/jmaiel" target="_blank">Mohamed Jmaiel</a>, University of Sfax, Tunisia</li>
+				</ul>
+			
+			<h4> Program Committee  (TBC) </h4>
+				<ul>
+						<li>Abdelhafid Zitouni, University of Constantine2, Algeria </li>
+    					<li>Ahmed Hadj Kacem, University of Sfax, Tunisia</li>
+    					<li>Ali Mili, New Jersey Institute of Technology, USA</li>
+    					<li>Allaoua  Chaoui, University of Constantine2, Algeria</li>
+    					<li>Allel  Hadj Ali, Université de Poitiers, France</li>
+    					<li>Chafia Bouanaka, University of Constantine2, Algeria</li>
+    					<li>Chaker Mezioud, University of Constantine2, Algeria</li>
+    					<li>Djamel Benmerzoug, University of Constantine2, Algeria</li>
+    					<li>Faiez Gargouri, University of Sfax, Tunisia</li>
+    					<li>Faiza Belala, University of Constantine2, Algeria</li>
+    					<li>Fateh Latreche, University of Constantine2, Algeria</li>
+    					<li>Fouzia Benchikha, University of Constantine2, Algeria</li>
+    					<li>Hatem hadj Kacem, University of Sfax, Tunisia</li>
+    					<li>Ilham Kitouni, University of Constantine2, Algeria</li>
+    					<li>Ismail Bouassida, University of Sfax, Tunisia</li>
+    					<li>Kamel  Barkaoui, CNAM, Paris, France</li>
+    					<li>Khalil Drira, University of Toulouse, France</li>
+    					<li>Khouloud Boukadi, University of Sfax, Tunisia</li>
+    					<li>Leila Ben Ayed, University of Mannouba, Tunisia</li>
+    					<li>Lamia Belguith, University of Sfax, Tunisia</li>
+    					<li>Larbi Sekhri, University of Oran, Algeria</li>
+    					<li>Lotfi Ben Romdhane, University of Sousse, Tunisia</li>
+    					<li>Mahmoud Boufaida, University of Constantine2, Algeria</li>
+    					<li>Meriem Belguidoum, University of Constantine2, Algeria</li>
+    					<li>Mohamed Baatouche, Princess Nourah Bint Abdulrahman University, KSA</li>
+    					<li>Mohamed Hammami, University of Sfax, Tunisia</li>
+    					<li>Mohamed Jmaiel, University of Sfax, Tunisia</li>
+    					<li>Mohamed Mosbah, University of Beaurdaux, France</li>
+    					<li>Mohamed Sellami, Institut Polytechnique de Paris, France</li>
+    					<li>Moufida Maimour, Université de Loraine, France</li>
+    					<li>Mouna Torjmen, University of Sfax, Tunisia</li>
+    					<li>Mustapha Kamel Abdi, University of Oran, Algeria</li>
+    					<li>Nabil  Hameurlain, University of Pau, France</li>
+    					<li>Nacer Eddine Zarour, University of Constantine2, Algeria</li>
+    					<li>Nadia Zeghib, University of Constantine2, Algeria</li>
+    					<li>Nardjes Bouchemal, Centre universitaire de Mila, Algérie</li>
+    					<li>Narjes Bellamine, University of Manouba, Tunisia</li>
+    					<li>Nasser-Eddine  Rikli, Saud University, KSA</li>
+    					<li>Ouajdi Korbaa, University of Sousse, Tunisia</li>
+    					<li>Rafik Bouaziz, University of Sfax, Tunisia</li>
+    					<li>Riadh Robbana, University of Carthage, Tunisia</li>
+    					<li>Said Brahimi, University of Guelma, Algeria</li>
+    					<li>Said Ghoul, Philadelphia University, Jordan</li>
+    					<li>Salim Chikhi, University of Constantine2, Algeria</li>
+    					<li>Slim Kallel, University of Sfax, Tunisia</li>
+    					<li>Souham Meshoul, Princess Nourah Bint Abdulrahman University, KSA</li>
+    					<li>Walid Gaaloul, Institut Polytechnique de Paris, France</li>
+    					<li>Walid Mahdi, University of Sfax, Tunisia </li>
+    					<li>Yamine Ait Ameur, IRIT/ENSEEIHT Toulouse, France</li>
+    					<li>Zakaria Benzadri, University of Constantine2, Algeria</li>
+    					<li>Zizette Boufaida, University of Constantine2, Algeria</li>
+				</ul>
+				
+			<h4> Organizing Committee  </h4>
+				<ul>
+					<li>Zakaria Benzadri, University of Constantine2, Algeria </li>
+					<li>Ismail Bouassida, University of Sfax, Tunisia </li>
+					<li>Kamel Boukhelfa, University of Constantine2, Algeria</li> 
+					<li>Saoussen Cheikhrouhou, University of Sfax, Tunisia </li>
+					<li>Slim Kallel, University of Sfax, Tunisia (Chair)</li>
+					<li>Nesrine Khabou, University of Sfax, Tunisia </li>
+					<li>Zakaria Lakhdara, University of Constantine2, Algeria </li>
+					<li>Sahar Smaali, University of Constantine2, Algeria</li>
+
+				</ul>
+			
+			
+			
+			<!--div class="section-intro text-center single-col-max mx-auto mb-5">List your featured speakers here. You can provide more info about each speaker in the relevant modal windows. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div-->
+		</div>
+		
+		<div class="container">
+			<hr>
+		</div>
+	
+	</section>
+	
+	<section id="speakers-section" class="speakers-section section">
+		<div class="container">
+			<h3 class="section-heading text-center mb-3">Speakers</h3>
+			<br/>
+			<!--div class="section-intro text-center single-col-max mx-auto mb-5">List your featured speakers here. You can provide more info about each speaker in the relevant modal windows. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div-->
+			<div class="row">
+				<div class="col-12 col-md-3 col-lg-3 mb-4">
+					
+				</div>
+				<div class="col-12 col-md-6 col-lg-3 mb-4">
+					<div class="card rounded-0">
+						<a href="#modal-speaker-1" data-toggle="modal" data-target="#modal-speaker-1"><img src="assets/images/speakers/rikli.jpg" class="card-img-top rounded-0" alt=""></a>
+						<div class="card-body">
+							<h5 class="card-title mb-2">Nasser-Eddine Rikli</h5>
+							<div class="card-text mb-3">
+								<div class="meta">Professor</div>
+								<div class="meta">King Saud University, Saudi Arabia</div>
+							</div>
+							<a href="#modal-speaker-1" data-toggle="modal" data-target="#modal-speaker-1">Read more &rarr;</a>
+						</div>
+						<div class="card-footer text-muted">
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="https://fac.ksu.edu.sa/rikli" target="_blank" >Web site</a></li>
+								<!--li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li-->
+							</ul>
+						</div>
+					</div>
+				</div>
+				<!--div class="col-12 col-md-6 col-lg-3 mb-4">
+					<div class="card rounded-0">
+						<a href="#modal-speaker-1" data-toggle="modal" data-target="#modal-speaker-1"><img src="assets/images/speakers/speaker-3.jpg" class="card-img-top rounded-0" alt=""></a>
+						<div class="card-body">
+							<h5 class="card-title mb-2">Tim Doe</h5>
+							<div class="card-text mb-3">
+								<div class="meta">Software Developer</div>
+								<div class="meta">React Core Team</div>
+							</div>
+							<a href="#modal-speaker-1" data-toggle="modal" data-target="#modal-speaker-1">Read more &rarr;</a>
+						</div>
+						<div class="card-footer text-muted">
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div-->
+				
+				
+			</div><!--//row-->
+			<!--div class="speakers-cta text-center py-3"><a class="btn btn-primary btn-lg" href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/devconf-free-bootstrap-4-conference-template-for-tech-conferences-and-events/" target="_blank">Get Tickets</a></div-->
+		</div><!--//container-->
+		
+	</section><!--//speakers-section-->
+	
+	<div class="container">
+		<hr>
+	</div>
+	
+	<section id="schedule-section" class="schedule-section section">
+		<div class="container">
+			<h3 class="section-heading text-center mb-5">Schedule</h3>
+			
+			<!-- Nav tabs -->
+			<ul class="schedule-nav nav nav-pills nav-fill" id="myTab" role="tablist">
+				<!--li class="nav-item mr-2">
+					<a class="nav-link active" id="tab-1" data-toggle="tab" href="#tab-1-content" role="tab" aria-controls="tab-1-content" aria-selected="true">
+						<span class="heading">Day 1</span>
+						<span class="meta">(Wed 12, Oct)</span>
+					</a>
+				</li-->
+				<li class="nav-item mr-2">
+					<a class="nav-link" id="tab-2" data-toggle="tab" href="#tab-2-content" role="tab" aria-controls="tab-2-content" aria-selected="false">
+						<span class="heading">Day 1</span>
+						<span class="meta">(Sat 18, Dec)</span>
+					</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" id="tab-3" data-toggle="tab" href="#tab-3-content" role="tab" aria-controls="tab-3-content" aria-selected="false">
+						<span class="heading">Day 2</span>
+						<span class="meta">(Sun 19, Dec)</span>
+					</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" id="tab-4" data-toggle="tab" href="#tab-4-content" role="tab" aria-controls="tab-4-content" aria-selected="false">
+						<span class="heading">Day 3</span>
+						<span class="meta">(Mon 20, Dec)</span>
+					</a>
+				</li>
+			</ul>
+			
+			<!-- Tab panes -->
+			<div class="schedule-tab-content tab-content">
+				<!--div class="tab-pane no-timeline" id="tab-1-content" role="tabpanel" aria-labelledby="tab-1">
+					<h4 class="text-center py-5 text-muted">Day 1 Agenda Coming Soon...</h4>
+				</div--><!--//tab-1-content-->
+				<div class="tab-pane no-timeline" id="tab-2-content" role="tabpanel" aria-labelledby="tab-2">
+					<h4 class="text-center py-5 text-muted">Day 1 Agenda Coming Soon...</h4>
+				</div><!--//tab-2-content-->
+				<div class="tab-pane no-timeline" id="tab-3-content" role="tabpanel" aria-labelledby="tab-3">
+					<h4 class="text-center py-5 text-muted">Day 2 Agenda Coming Soon...</h4>
+				</div><!--//tab-3-content-->
+				<div class="tab-pane no-timeline" id="tab-4-content" role="tabpanel" aria-labelledby="tab-4">
+					<h4 class="text-center py-5 text-muted">Day 3 Agenda Coming Soon...</h4>
+				</div><!--//tab-3-content-->
+			</div><!--//schedule-tab-content-->
+			<!--div class="schedule-cta text-center mx-auto"><a href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/devconf-free-bootstrap-4-conference-template-for-tech-conferences-and-events/" class="btn btn-primary btn-lg mr-md-2 d-block d-md-inline-block mb-3 mb-md-0" target="_blank">Download Schedule</a>
+			<a href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/devconf-free-bootstrap-4-conference-template-for-tech-conferences-and-events/" class="btn btn-secondary btn-lg d-block d-md-inline-block" target="_blank">Buy Tickets</a>
+			</div-->
+		</div><!--//container-->
+	</section><!--//schedule-section-->
+	
+	
+	<section id="venue-section" class="venue-section section  theme-bg-primary text-white">
+		<div class="container">
+			<h3 class="section-heading text-center mb-5 text-white">Venue</h3>
+			<div class="row py-lg-5">
+				<div class="col-12 col-lg-7 h-100">
+					<div class="desc">
+						<h4 class="text-white mb-3">Tabarka</h4>
+						<p>Tabarka is a coastal town located in north-western Tunisia, close to the border with Algeria. Tabarka's history is a mosaic of Berber, Punic, Hellenistic, Roman, Arabic, Genoese and Turkish culture. The town is dominated by an offshore rock on which is remains a Genoese castle. Tourist attractions include its coral fishing, the Coralis Festival of underwater photography, and its annual jazz festival.</p>
+						
+						<div class="row pt-3">
+							<div class="col-12 col-md-6 mb-4">
+								<div class="grid-item p-4">
+									<h5 class="text-white mb-3 title"><i class="fas fa-plane-departure mr-2"></i>By Plane</h5>
+									<p>Tabarka–Aïn Draham International Airport</p>
+									<p>Tunis–Carthage International Airport</p>
+								</div><!--//grid-item-->
+							</div><!--col-->
+							<div class="col-12 col-md-6 mb-4">
+								<div class="grid-item p-4">
+									<h5 class="text-white mb-3 title"><i class="fas fa-car mr-2"></i>By Car</h5>
+									<p>250 km from Constantine, Algeria</p>
+									<p>180 km from Tunis, Tunisia</p>
+									<p>450 km from Sfax, Tunisia</p>
+
+								</div><!--//grid-item-->
+							</div><!--col-->
+							
+						</div><!--//row-->
+						
+						<h4 class="text-white mb-4 mt-3 mt-lg-5">Weather</h4>
+						<p>The weather in Tabarka is usually variable from year to year. Summers are mostly hot and dry, but milder than the Saharan hinterland. It barely rains in July and August. The average temperatures for this season is 28.2 °C. Winters are mostly rainy and cold. Snow is possible during this time of the year. The average temperature for this season is 7.4 °C.</p> 
+						
+						<!--a class="btn btn-ghost" href="#">Search Hotels</a-->
+					</div><!--//desc-->
+				</div><!--//col-->
+				<div class="col-12 col-lg-4 offset-lg-1 position-relative h-100 mt-5 mt-lg-0">
+					<div class="figures-holder">
+						<div class="figure figure-1"><img class="shadow" src="assets/images/venue/venue-1.jpg" alt=""></div>
+						<div class="figure figure-2"><img class="shadow" src="assets/images/venue/venue-2.jpg" alt=""></div>
+						<div class="figure figure-3"><img class="shadow" src="assets/images/venue/venue-3.jpg" alt=""></div>
+						<div class="figure figure-4"><img class="shadow" src="assets/images/venue/venue-4.jpg" alt=""></div>
+					</div><!--//figures-holder-->
+				</div><!--//col-->
+			</div><!--//row-->
+		</div><!--//container-->
+	</section><!--//venue-section-->
+
+	<section id="sponsors-section" class="sponsors-section section">
+		<div class="container">
+			<h3 class="section-heading text-center mb-3">Sponsors &amp; Partners</h3>
+			
+			<div class="row logos justify-content-center">
+				
+				<div class="logo-item col-6 col-md-4 col-lg-2">
+				<img src="assets/images/logos/us.png" alt=""></div>
+				
+				<div class="logo-item col-6 col-md-4 col-lg-2">
+				<img src="assets/images/logos/labredcad.jpg" alt=""></div>
+				
+				<div class="logo-item col-6 col-md-4 col-lg-2">
+				<img src="assets/images/logos/lire.png" alt=""></div>
+				
+				<div class="logo-item col-6 col-md-4 col-lg-2">
+				<img src="assets/images/logos/uc21.png" alt=""></div>
+				
+			</div>
+			<div class="row logos justify-content-center">
+				
+				
+				
+				
+				<div class="logo-item col-6 col-md-4 col-lg-2">
+				<img src="assets/images/logos/fsegs.jpg" alt=""></div>
+				
+				<div class="logo-item col-6 col-md-4 col-lg-2">
+				<img src="assets/images/logos/ntic.png" alt=""></div>
+				
+				<div class="logo-item col-6 col-md-4 col-lg-2">
+				<img src="assets/images/logos/crns.png" alt=""></div>
+				
+				<div class="logo-item col-6 col-md-4 col-lg-2">
+				<img src="assets/images/logos/acmtn.jpg" alt=""></div>
+				
+			</div>
+			<br/> <br/>
+			<div class="section-intro text-center single-col-max mx-auto mb-5">
+				<div align="justify">
+				The TACC 2021 conference is organized by LABEX-TA Laboratory "Laboratoire Mixte d’Excellence Scientifique Tuniso-Algérien : Méthodes Formelles pour le Génie Logiciel". This laboratory is financed by the ministries of higher education and scientific research in Tunisia and Algeria. 
+				<br/><br/>
+				For more information, please visit the following Web site: 		
+				<a href="http://labex-ta.redcad.tn" target="_blank">http://labex-ta.redcad.tn</a>.
+				</div>	
+			</div>
+			<!--//row-->
+			<!--div class="sponsors-cta text-center pt-5"><a class="btn-primary btn btn-lg" href="#">Become A Sponsor</a></div-->
+		</div><!--//container-->
+	</section><!--//sponsors-section-->
+
+	<footer class="footer py-5 theme-bg-primary">
+		<div class="container text-center">
+			
+			<ul class="social-list list-inline mb-4"> 
+				<li class="list-inline-item mr-3"><a href="#"><i class="fas fa-envelope"></i></a></li>
+				<li class="list-inline-item mr-3"><a href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
+				<li class="list-inline-item mr-3"><a href="#"><i class="fab fa-instagram fa-fw"></i></a></li>
+				<li class="list-inline-item mr-0"><a href="#"><i class="fab fa-youtube fa-fw"></i></a></li>
+			</ul><!--//social-list-->
+			
+			
+			<ul class="footer-links list-inline mx-auto mb-4">
+				<li class="list-inline-item"><a href="#">Code of Conduct</a></li>
+				<li class="list-inline-item">|</li>
+				<li class="list-inline-item"><a href="#">Terms</a></li>
+				<li class="list-inline-item">|</li>
+				<li class="list-inline-item mr-0"><a href="#">Privacy</a></li>
+			</ul><!--//footer-link-->
+			
+			 <!--/* This template is free as long as you keep the footer attribution link. If you'd like to use the template without the attribution link, you can buy the commercial license via our website: themes.3rdwavemedia.com Thank you for your support. :) */-->
+			<small class="copyright">Designed with <i class="fas fa-heart" style="color: #EC645E;"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a> for developers</small>
+			
+		</div><!--//container-->	    
+	</footer>
+
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-speaker-1" id="modal-speaker-1" tabindex="-1" role="dialog" aria-labelledby="speaker-1-ModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 id="speaker-1-ModalLabel" class="modal-title sr-only">Speaker Name</h4>
+				</div>
+				<div class="modal-body p-0">
+					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
+						<!--img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="assets/images/speakers/speaker-1.jpg" alt="" /-->
+						
+						<div class="media-body text-center text-md-left mx-auto">
+							<h2 class="name mb-2">Nasser-Eddine Rikli</h2>
+							<div class="meta">Professor</div>
+							<div class="meta mb-2">King Saud University, Saudi Arabia</div>
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="https://fac.ksu.edu.sa/rikli"> https://fac.ksu.edu.sa/rikli</a></li>
+								<!--li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li-->
+							</ul><!--//social-list--> 
+						</div><!--//media-body-->
+					</div><!--//media-->
+					
+					<div class="desc p-4 p-lg-5">
+						<h4> Biography: </h4>
+						<p align="justify">
+						Nasser-Eddine Rikli finished his BS (Ingenieur d'etat) with distinction in Electrical Engineering (Genie Electrique) from INELEC, Algeria; both his MS and Ph.D in Electrical Engineering from Polytechnic University, New York. He started his academic carrier with INELEC, Algeria, then Polytechnic University, New York, then Hunter College, New York, then New York City Technical College, and finally, He joined King Saud University, where He is currently working as a full Professor with the Department of Computer Engineering. He conducted research on funded projects with GTE Labs and Bell Labs (both in the US), involving the modeling of multimedia traffic and the integration of voice and data traffic. Also, He had many consultations with local as well as international companies and organizations in various areas of education, networking, and communication. He is an IEEE senior member, and the Editor-in-Chief of the Journal of King Saud University - Computer and Information Sciences. 
+						</p>
+						<!--h4> Abstract: </h4>
+						<p align="justify"> Soon </p-->
+						
+					</div>
+				</div><!--//modal-body-->
+			</div><!--//modal-content-->
+		</div><!--//modal-dialog-->
+	</div><!--//modal-->
+	
+	<!-- Javascript -->          
+	<script src="assets/plugins/jquery-3.4.1.min.js"></script>
+	<script src="assets/plugins/popper.min.js"></script>
+	<script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>  
+	<script src="assets/plugins/back-to-top.js"></script>
+	<script src="assets/plugins/jquery.scrollTo.min.js"></script>
+	<script src="assets/js/main.js"></script>  
+
+</body>
+</html> 
+
