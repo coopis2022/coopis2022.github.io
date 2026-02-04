@@ -157,6 +157,36 @@
 			</ul>
 			
 			<div class="schedule-tab-content tab-content">
+
+				<!-- Details for 2026-->
+				<div class="tab-pane no-timeline" id="tab-2026-content" role="tabpanel" aria-labelledby="tab-2026">
+					<table class="table">
+						  <tr>
+							<th scope="row">Location</th>
+							<td> Angers, France <span class="fi fi-fr"></span></td>
+						  </tr>
+						  <tr>
+							<th scope="row">Website</th>
+							<td> <a href="https://coopis.scitevents.org" target="_blank">coopis.scitevents.org</a> </td>
+						  </tr>
+						  <tr>
+							<th scope="row">General Chair</th>
+							<td>Ladjel Bellatreche and Ali Ouni</td>
+						  </tr>
+						  <tr>
+							<th scope="row">PC Co-Chairs</th>
+							<td>Brahim Medjahed and Cesare Pautasso</td>
+						  </tr>
+						  <tr>
+							<th scope="row">Keynote Speakers</th>
+							<td>TBA</td>
+						  </tr>
+						  <tr>
+							<th scope="row">Proceedings</th>
+							<td>TBA</td>
+						  </tr>
+					</table>
+				</div>
 				
 				<!-- Details for 2025-->
 				<div class="tab-pane no-timeline" id="tab-2025-content" role="tabpanel" aria-labelledby="tab-2025">
@@ -1124,7 +1154,7 @@ France.</p>
     const list = document.getElementById('myTab');
 
     // Loop from year to 1993 and create the <li> elements, excluding 2021 and 2020
-    for (let year = 2025; year >= 1993; year--) {
+    for (let year = 2026; year >= 1993; year--) {
         if (year === 2021 || year === 2020) continue;
 
         const li = document.createElement('li');
